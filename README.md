@@ -1,2 +1,2 @@
-# optimal-household-temp 
+# household-temp-code
 # Saran Kongthong
